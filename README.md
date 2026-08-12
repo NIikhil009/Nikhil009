@@ -3,7 +3,7 @@ Nikhil009/README.md
 __________________________________________________________________________________________________________________________________________________________________
 
 BTech Computer Technology student atDr. Babasaheb Ambedkar Technological University (DBATU)
-BTech Computer Technology student at DBATU, passionate about Web Development and building full-stack applications from frontend to backend. Currently strengthening my skills in Java & Data Structures and Algorithms.   
+BTech Computer Technology student at DBATU, passionate about Web Development and building full-stack applications from frontend to backend. Currently strengthening my skills in Java & Data Structures and Algorithms.      
 
 📍Maharashra, Dhule,
 
