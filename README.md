@@ -40,5 +40,24 @@ BTech Computer Technology student at DBATU, passionate about Web Development and
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 <hr>
- <h3>Featured project</h3>
+## 🚀 Featured Projects
+
+### 🌍 Wanderlust
+https://github.com/NIikhil009/Wanderlust.git
+
+A full-stack property listing web application built with Node.js, Express.js, MongoDB and EJS.
+
+---
+
+### 🎵 Spotify Clone
+https://github.com/NIikhil009/Spotify-Clone.git
+
+A Spotify-inspired music streaming interface built using HTML, CSS and JavaScript.
+
+---
+
+### 🎨 Photoshop Clone
+https://github.com/NIikhil009/photography-website.git
+
+A Photoshop-inspired image editing project built using HTML, CSS and JavaScript.
  
