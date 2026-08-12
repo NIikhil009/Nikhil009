@@ -41,7 +41,7 @@ BTech Computer Technology student at DBATU, passionate about Web Development and
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 <hr>
-## 🚀 Featured Projects
+🚀 <h3>Featured Projects</h3>
 
 ### 🌍 Wanderlust
 https://github.com/NIikhil009/Wanderlust.git
