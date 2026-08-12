@@ -1,6 +1,6 @@
 Nikhil009/README.md
 <h3>Nikhil Koli</h3>
-__________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________
 
 BTech Computer Technology student atDr. Babasaheb Ambedkar Technological University (DBATU)
 BTech Computer Technology student at DBATU, passionate about Web Development and building full-stack applications from frontend to backend. Currently strengthening my skills in Java & Data Structures and Algorithms.      
